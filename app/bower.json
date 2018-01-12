@@ -1,0 +1,23 @@
+{
+  "name": "mycontactsapp",
+  "description": "",
+  "main": "app/index.html",
+  "authors": [
+    "Heet1996 <heet1@live.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "^5.5.3"
+  },
+  "resolutions": {
+    "firebase": "3.x.x"
+  }
+}
